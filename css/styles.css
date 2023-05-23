@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    color: #66BFBF;
+    font-size: 5.625em;
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+    padding-bottom: 2px;
+}
+
+h2 {
+    color: #66BFBF;
+    font-size: 2.5em;
+    font-weight: normal;
+    font-family: 'Handlee', cursive;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Handlee', cursive;
+    font-size: 25px;
+}
+
+p {
+    font-family: 'Handlee', cursive;
+    font-size: 18px;
+}
+
+.top-container {
+    background-color: #CDF0EA;
+    position: relative;
+    padding-top: 100px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    text-align: 2;
+    padding: 30px;
+    margin-top: 50px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+
+.bottem-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.my-profile {
+    border-radius: 200px;
+    height: 200px;
+    width: 200px;
+}
+
+hr {
+
+    background-color: skyblues;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width: 10%;
+
+}
+
+a {
+    color: #11999E;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+
+    text-align: left;
+    line-height: 2;
+
+
+}
+
+.web-design {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 100px;
+}
+
+.teamwork {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    border-radius: 100px;
+}
+
+.contact {
+    padding-top: 50px;
+    color: #66BFBF;
+    height: 20px;
+}
+
+.contact-details {
+    padding-left: 15px;
+    background-color: #CDF0EA;
+    text-align: left;
+}
+
+.bottom-para {
+    color: #EAF6F6;
+}
+
+.footer-link {
+    font-size: larger;
+    font-family: 'Handlee', cursive;
+    display: inline-block;
+    width: 100px;
+
+}
+
+.w3-btn-w3-margin-bottom {
+    font-size: larger;
+    font-family: 'Source Sans Pro', sans-serif;
+    border: 0;
+    background-color: #66BFBF;
+    padding: 10px 18px;
+    color: white;
+    border-radius: 10px;
+}
